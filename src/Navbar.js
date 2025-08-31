@@ -47,7 +47,7 @@ const Navbar = () => {
           </li>
           <li>
             <a
-              href={process.env.PUBLIC_URL + "/resume/Thapaswini Vanukuri.pdf"}
+              href={process.env.PUBLIC_URL + "/resume/Thapaswini_Vanukuri.pdf"}
               target="_blank"
               rel="noopener noreferrer"
               download
